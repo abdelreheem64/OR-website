@@ -39,7 +39,7 @@ export default function AppHeader() {
       <nav className="container mx-auto px-4 sm:px-6 py-4 flex justify-between items-center">
         <a href="#home" className="flex items-center gap-3">
           <Image 
-            src="https://www.dropbox.com/scl/fi/cdpfbk7nlzbn5mb13nmbt/.jpg?rlkey=5gaov2yymvxp4isbw9crxiuza&raw=1"
+            src="https://www.dropbox.com/scl/fi/3gtq58x7915iaoevz9pvk/icon.png?rlkey=6m3fahu2vkow1ebiyu2q3hi7f&raw=1"
             alt="شعار لجنة التنظيم والمراسم"
             width={40}
             height={40}

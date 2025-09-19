@@ -5,7 +5,7 @@ export default function HomeSection() {
         <section id="home" className="mb-16 scroll-mt-24 text-center">
             <div className="flex justify-center mb-4">
                 <Image 
-                    src="https://www.dropbox.com/scl/fi/cdpfbk7nlzbn5mb13nmbt/.jpg?rlkey=5gaov2yymvxp4isbw9crxiuza&raw=1" 
+                    src="https://www.dropbox.com/scl/fi/3gtq58x7915iaoevz9pvk/icon.png?rlkey=6m3fahu2vkow1ebiyu2q3hi7f&raw=1" 
                     alt="شعار لجنة التنظيم والمراسم" 
                     width={150} 
                     height={150}

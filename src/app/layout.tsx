@@ -16,8 +16,8 @@ export default function RootLayout({
     <html lang="ar" dir="rtl" suppressHydrationWarning style={{ scrollBehavior: 'smooth' }}>
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-        <link rel="icon" href="https://www.dropbox.com/scl/fi/cdpfbk7nlzbn5mb13nmbt/.jpg?rlkey=5gaov2yymvxp4isbw9crxiuza&raw=1" />
-        <link rel="apple-touch-icon" href="https://www.dropbox.com/scl/fi/cdpfbk7nlzbn5mb13nmbt/.jpg?rlkey=5gaov2yymvxp4isbw9crxiuza&raw=1" />
+        <link rel="icon" href="https://www.dropbox.com/scl/fi/3gtq58x7915iaoevz9pvk/icon.png?rlkey=6m3fahu2vkow1ebiyu2q3hi7f&raw=1" />
+        <link rel="apple-touch-icon" href="https://www.dropbox.com/scl/fi/3gtq58x7915iaoevz9pvk/icon.png?rlkey=6m3fahu2vkow1ebiyu2q3hi7f&raw=1" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet" />
